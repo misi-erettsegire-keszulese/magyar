@@ -9,5 +9,6 @@
 
 ## Irodalom
 
+* [Szentimentalizmus - Csokonai](irodalom/untitled.md)
 * [Arany János balladisztikája](irodalom/arany-janos-balladisztikaja.md)
 
