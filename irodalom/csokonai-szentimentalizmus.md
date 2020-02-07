@@ -1,4 +1,4 @@
-# Szentimentalizmus - Csokonai (Összehasonlító műelemzés)
+# Szentimentalizmus - Csokonai
 
 ## Bevezetés
 
