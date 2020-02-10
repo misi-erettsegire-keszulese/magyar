@@ -3,12 +3,12 @@
 ## Bevezetés
 
 - Csokonai, a "stílusvirtuóz"
-    - Magyarország zászlóshajós költője **klasszicizmus**ban és **szentimentalizmusban**.
-    - Összes stílusirányzata:
-        - klasszicizmus
-        - rokokó
-        - szentimentalizmus
-        - népiesség
+  - Magyarország zászlóhajós költője **klasszicizmus**ban és **szentimentalizmusban**.
+  - Összes stílusirányzata:
+    - klasszicizmus
+    - rokokó
+    - szentimentalizmus
+    - népiesség
 
 ## Témamegjelelölés
 
@@ -35,8 +35,10 @@
 | Stílus        | - Szentimentalisztikus szenvedés                                  | - --------,,--------                                             | - Rokokó elemek (virágzás, tavasz)              |
 
 - Átfogó stíluselemek:
-    - Képek sokasága
-    - Természet és társadalom összehasonlítása (értelem vs érzelem)
+  - Képek sokasága
+  - Természet és társadalom összehasonlítása (értelem vs érzelem)
 
 ## Zárás
+
 - *Zárásképp el szeretném felelni a 'Reményhez' című művet*
+
