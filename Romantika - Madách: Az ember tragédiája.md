@@ -66,11 +66,17 @@
 
 - Demagógok manipulálják a népet saját vezéreik (Miltiádész) ellen
 
-### Róma TODO
+### Róma 
 
 - Á: Sergiolus
 - É: Júlia kéjhölgy
 - L: Miló
+
+- Hedonizmus & Általános értékvesztés
+
+- Rómaiak orgiát rendeznek, ahol pl. poénból halott fertőzötteket csókolgatnak
+  (értékvesztés), miközben a barbárok döngetik a falakat (hedonizmus)
+
 
 ### Konstantinápoly
 
