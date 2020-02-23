@@ -48,7 +48,7 @@
 - Klasszicista vonások
         - Szabályos, harmonikus felépítés (követi a retorika szabályait)
           - **Kölcsey szerepe a reformkori politikában**
-          
+
 ### Stílus: Romantika
 
 - Nemzeti múlt újra felfedezése
@@ -64,12 +64,12 @@
 
 ### Szózat
 
-#### Kövi 2 vssz: Felszólítás indoklása - Miért is legyünk büszkék? 
+#### Kövi 2 vssz: Felszólítás indoklása - Miért is legyünk büszkék?
 
 - Például: Árpád honfoglalása, Hunyadi hőstette
 - Sorok elején anafora (ez-ez, itt-itt): Annak kiemelése, hogy valóban erről a
   földről van szó
-  
+
 #### 6. vssz: Múlt & jelen összefonódik
 
 > És annyi balszerencse közt,
@@ -96,8 +96,8 @@
 
 - 11. vssz: nagy ellentétek egymás mellet
   - Romantikus szenvedélyesség
-  
-  
+
+
 ###  Himnusz
 
 #### 2-4 Jó történelmi események
@@ -118,7 +118,7 @@
 
 - 5. vssz: "Hányszor" anafória
   - Tényleg mindent megbűnhődtünk
-  
+
 #### 6-: Múlt-jelen összehasonlítás
 
 - Vár leomlott
