@@ -1,5 +1,25 @@
 # Kultúrált véleménnyilvánítás és vita gyakorlata
 
+## Retorika fogalma
+
+- Érvelő, meggyőző szövegek alkotásának és előadásának tudománya
+- Ókori demokráciában születtek meg az alapjai (Arisztotelész & Ciceró)
+- Középkor: 7 szabad művészetek egyikeként tanították egyetemen
+
+- Ma: Kultúrált meggyőzés, logikus gondolkodás tudománya
+
+## Retorika műfajai
+
+- Tanácskozó beszéd
+  - Templomi prédikáció, parlamenti felszólalás
+  - Pázmány Péter: Prédikáció, Martin Luther King: Van egy álmom
+- Törvényszéki beszéd
+  - Bírósági beszédek
+  - Bűn/ártatlanság bizonyítása
+  - Vád/védőbeszéd
+- Bemutató beszéd
+  - Ünnepi alkalmakkor, laudáció
+
 ## Kommunikáció célja - retorikai szövegek típusai
 
 * Tájékoztatás - Referenciális funkció

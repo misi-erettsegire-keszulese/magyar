@@ -28,6 +28,7 @@
 ### Cím
 
 | Himnusz                                                                                            | Szózat                 |
+|----------------------------------------------------------------------------------------------------|------------------------|
 | Műfajmegjelölő (**Kitérés a himnusz műfajra**<sup>1</sup>)                                         | Beszédhelyzet megadása |
 | Alcím: "A magyar nép zivataros századaiból" (Egyáltalán nem a jelenkort kritizálja a költő, á nem) | Hangnem előrevetítése  |
 
@@ -58,6 +59,7 @@
 #### Tételmondat
 
 | Himnusz                     | Szózat                                        |
+|-----------------------------|-----------------------------------------------|
 | Első és utolsó sor          | Első és utolsó 2 sor                          |
 | "Isten, áldd meg a magyart" | "Hazádnak rendületlenül Légy híve, oh magyar" |
 | "Szánd meg Isten a magyart" | "Légy híve rendületlenül Hazádnak, oh magyar" |
@@ -129,6 +131,7 @@
 - Nyolc és hat szótagos sorok váltják egymást
 
 | Himnusz                                                | Szózat                       |
+|--------------------------------------------------------|------------------------------|
 | időmértékes (néha 4/3 & 3/3 ütemhangsúly behallatszik) | skót ballada formára íródott |
 | trocheikus lejtés (ereszkedő)                          | jambikus (emelkedő)          |
 | keresztrím                                             | félrím                       |
@@ -137,6 +140,7 @@
 ### Megzenésítés
 
 | Himnusz            | Szózat             |
+|--------------------|--------------------|
 | Erkel Ferenc, 1844 | Egressy Béni, 1843 |
 
 

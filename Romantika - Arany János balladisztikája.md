@@ -1,87 +1,10 @@
 # Arany János balladisztikája
 
-## Arany János balladisztikája
-
-### Életpálya
-
-#### Születése & gyermekkor
-
-* Született **1817**-ben, **Nagyszalontán**
-* Szüleivel \(Arany György, Megyeri Sára\), összesen **10 testvérével** nagy **szegénységben** éltek
-  * 10 testvérből **2-en élték túl a gyermekkort** -&gt; szülei nagyon óvták mindentől \(**felnőttek társaságában** nőtt fel\)
-* Befelé forduló volt, kerülte a feltűnést, **önbizalomhiány**
-
-#### Tanulmánya
-
-1. 1831 Nagyszalonta
-   * Itt lett **segédtanító**
-2. Debreceni Református Kollégium
-   * Nem tudta fizetni a tandíjat \(segédtanító\)
-   * 1836: **érettségi nélkül** vetett véget diákságának
-
-#### Költői korszakok előtti karrier
-
-1. Vándorszínészet
-   * Rémálom: meghal anyja -&gt; gyalog hazamegy -&gt; \(később\) **anyja meghal, apja megvakul**
-2. 1836: **visszamegy** Nagyszalontára
-   * Latint, görögöt tanít
-   * Másodjegyző \(majd jegyző\) lett
-   * 1840: **családot alapít**
-     * Rangon aluli házasság
-       * törvénytelen gyerekek \(2 db.: Juliska, László\)
-     * Egyszerű, tisztes élet
-       * Nem akart hírnevet \(**nem írt, nem akart költő lenni**\)
-
-#### Költői korszakok
-
-**A szalontai élet - Politikai & írói karrier elindul**
-
-* 1845: **Az elveszett alkotmány**
-  * Kisfaludy Társaság pályázatára
-  * megnyerte; kapott 25 aranyat
-* 1847: **Toldi**
-  * Országos hírnév
-  * Petőfi barátja lett
-* **Egyetértett a forradalmi eszmékkel**
-* Belügyminisztériumnál vállalt fogalmazói állást
-  * Válságkorszaka
-* 1849: **Elvesztette a munkáját, bujdosnia kellett**
-  * **Geszt**en magántanár lett
-* 1855: Újra elkezdett publikálni
-
-**Nagykőrősi élet - Bach-korszak nyomaszt egyéni lét szintjén**
-
-* 1851: **Nagykőrösi Gimnázium hívása**
-  * Egész család költözik
-  * Latint, görögöt, irodalmat tanít
-  * Nyomasztó környezet 1. Nagyhírű kollégák - neki nincs diplomája 1. Back-korszak 1. Tanítás elveszi az írás energiáját
-
-**Pesti évek - Karrier csúcson, egészsége a béka feneke alatt**
-
-* 1860: **Pestre költözik**
-  * Kisfaludy Társaság igazgatójává választották
-* 1870: Az Akadémia főtitkára lett
-  * Karriere csúcsa
-  * Egészsége a mélyben
-* 1877: Felmond
-  * Az Akadémia nem fogadja el
-  * Alig ír
-
-**Őszikék korszak - Van ideje írni, megzakkantságból lélektani balladák**
-
-* 1877 Nyár: **Margit-szigeti szanatórium**:
-  * Többet ír **1 nyár alatt, mint az utóbbi 10 évben**
-  * Lírák, balladák
-  * Nem kiadásra szánt **"Kapcsos könyv" vagy "Csatos könyv"**
-* 1887: Családi betegségben meghal
-
-### Balladák
-
 * Arany epikus szerzőnek tartotta magát
   * Lelki világához jobban álltak a balladák
   * Minden korszakában írt balladát
 
-#### Ballada műfaja
+## Ballada műfaja
 
 * Átmeneti műfaj
 
@@ -93,8 +16,9 @@
 |  | Költői eszközök |  |
 
 * Goethe: A balladában minden műnemek csirája megtalálható
+* Balladai homály: Szaggatott elbeszélés, információhiány, **romantikus jegy**
 
-### Ballada történelme
+## Ballada történelme
 
 * Középkori eredet
   * Népballadák \(**Paraszballadák**\):
@@ -110,7 +34,7 @@
 
 ## Arany balladái
 
-### Chronológia szerint
+### Kronológia szerint
 
 #### Nagyszalonta
 
@@ -142,3 +66,94 @@
   * V. László
   * **Ágnes asszony**
 
+### Szerkezet szerint
+
+| Szerkezettípus         | Magyarázat                                                          | Példa                                  |
+|-------------|---------------------------------------------------------------------|----------------------------------------|
+| Egyszólamú  | Lineáris cselekmény,                                                | szalontai évek balladái, Walesi bárdok |
+| Többszólamú | Több cselekményszál, különböző tér/idővel, bonyolult cselekményszál | Szondi két apródja                     |
+| Körkörös    | Egy cselekményszál körbeér                                          | Ágnes asszony                          |
+
+
+### Tartalom szerint
+
+| Tartalomtípus | Magyarázat                                                           | Példa         |
+|---------------|----------------------------------------------------------------------|---------------|
+| Népi          | Parasztballada, skót, székely, alföldi hatással, egyszerű emberekkel | Ágnes asszony |
+| Városi        | Társadalomkritika, tablófestés a kor társadalmáról, városi szereplők | Híd-avatás    |
+| Lélektani     | Belső helyszín, lelki fájdalmak feltárása, bűn-bűnhődés motívuma     | Ágnes asszony |
+
+## Ágnes asszony elemzés
+
+### Háttér
+
+- Nagykőrösi ballada
+  - Lélektani
+  - Körkörös
+  - Parasztballada
+
+### Forma
+
+- Szabályos ütemhangsúlyos vers
+
+- Felező nyolcasokkal, félrímmel (XAXA)
+
+- Nem illeszkedik a reflén a szabályos sorokhoz
+
+### 1. vsz
+
+- Mosás motívum
+
+- Balladai homály
+
+- Utalás bűnre
+
+### 2-3. vsz
+
+- Falusiak kérdezősködése
+  - Népies hangvétel
+
+- Érezzük, hogy Ágnes valamit titkol
+
+### 4. vsz
+
+- Hajtú hívja a börtönbe
+
+### 5-9. vsz
+
+- Börtönben ülünk
+
+- Tempó lelassult
+  - Elindult a bomlás folyamata
+
+- Rémálmok gyötrik
+- Úgy érzi, egyetlen napsugár tartja életben
+- Megőrülés gondolata izgatja
+- Ruhájával igazgatja
+  - Ne látszon, hogy megőrült
+
+### 10-19. vsz
+
+- Bíróság tárgyalja az ügyet
+  - Ismerték a korábbi életét (mi nem -> balladai homály)
+
+- Tempó nagyon lassú (10 versszak = 1 óra)
+
+- Életfogytiglanit kap
+  - Összezavarodik (nem mehet haza a legtriviálisabb okok miatt (mosnia kell))
+  - Törvényszék hazaküldi (látják, hogy megőrült)
+
+### 20-26. vsz
+
+- Mosás motívum
+  - A véres kendőt tisztára mossa
+    - Még mindig véresnek látja -> tovább mossa
+
+- Kendő = lelke
+- Vér = lelkiismerete
+
+- Felgyorsult tempó (21-26 = egész hátralévő élete)
+
+- Foszlányok maradtak a kendőből = elméjéből
+
+- Ágnes asszony lelke végül tiszta
