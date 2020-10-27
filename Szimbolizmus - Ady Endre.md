@@ -19,7 +19,7 @@
    - Tájköltészet feje tetejére állítása (valós tájelemek -> szimbólumok)
    - Kísérteties, veszélyes tájak
    - Elmaradottság
-   - Pl. **A magyar Ugaron**, **A Hortobáby poétája**, **A Tisza parton**
+   - Pl. **A magyar Ugaron**, **A Hortobágy poétája**, **A Tisza parton**
    
 2. Léda versek
    - Ambivalencia, szimbolizmus, szecesszió, erotika, perdita szerelem, dekadencia, **"örök harc és nász"**
